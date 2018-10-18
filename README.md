@@ -32,13 +32,13 @@ Filename: en-wikipedia_traffic_200801-201709.csv
 
 ### Important notes
 
-*The Pageview API allows filtering by agent=user. However, the Pagecount API cannot differentiate between user traffic and traffic from web crawlers or spiders.*
+  - The Pageview API allows filtering by agent=user. However, the Pagecount API cannot differentiate between user traffic and traffic from web crawlers or spiders.
 
-*There is about 1 year of overlapping traffic data between the two APIs.*
+  - There is about 1 year of overlapping traffic data between the two APIs.
 
-*Start date is hardcoded as 200712 and end date is hardcoded as 201809, so as new data becomes available, these dates will need to be updated*
+  - Start date is hardcoded as 200712 and end date is hardcoded as 201809, so as new data becomes available, these dates will need to be updated
 
-*A value of 0 in the dataset means that the traffic data was not available from the API for the given date*
+  - A value of 0 in the dataset means that the traffic data was not available from the API for the given date
 
 ### Wikimedia REST API Documentation
 This dataset included in this project is constructed using the Pagecounts API and the legacy Pageviews API.
