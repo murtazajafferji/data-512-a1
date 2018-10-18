@@ -51,4 +51,4 @@ This dataset included in this project is constructed using the Pagecounts API an
 
 By using Wikimedia REST API, you agree to Wikimedia's [Terms of Use](https://wikimediafoundation.org/wiki/Terms_of_Use/en) and [Privacy Policy](https://wikimediafoundation.org/wiki/Privacy_policy).
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/murtazajafferji/data-512-a1/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/murtazajafferji/data-512-a1/blob/master/LICENSE) file for details
